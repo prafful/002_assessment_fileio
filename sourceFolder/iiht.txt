@@ -1,0 +1,1 @@
+Write a program called AllFiles, which provides a listing of all files (text file, image file, video file) contained in the given directory. 
